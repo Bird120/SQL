@@ -1,6 +1,6 @@
 # Portfolio Management System
 
-This project is a SQL-based **Portfolio Management System** designed to help users manage their investment portfolios. It includes database schema creation, data insertion, and essential queries for managing portfolios, assets, transactions, and their prices.
+This project is a SQL-based **Portfolio Management ** designed to help users manage their investment portfolios. It includes database schema creation, data insertion, and essential queries for managing portfolios, assets, transactions, and their prices.
 
 ## Table of Contents
 - [Project Overview](#project-overview)
@@ -40,7 +40,7 @@ To run this project on your local machine, follow the steps below:
 
 1. **Clone the repository**:
 ```bash
-   git clone https://github.com/your-username/Portfolio-Management-System.git
+   git clone https://github.com/Bird120/SQL/Portfolio Management.git
    cd Portfolio-Management-System
 ```
 
@@ -49,10 +49,9 @@ To run this project on your local machine, follow the steps below:
 Ensure you have a working installation of a SQL database like MySQL, PostgreSQL, or SQLite.
 Open your SQL client and run the create_tables.sql script to set up the database schema:
 ```bash
-source /path/to/Portfolio-Management-System/database/create_tables.sql
+source ./Portfolio Management/database/create_tables.sql
 ```
-# Portfolio Management System
-
+# Portfolio Management
 ## Usage
 
 Once the tables are created and the data is inserted, you can perform various SQL operations to manage portfolios:
