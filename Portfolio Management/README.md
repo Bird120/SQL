@@ -1,6 +1,6 @@
 # Portfolio Management System
 
-This project is a SQL-based **Portfolio Management ** designed to help users manage their investment portfolios. It includes database schema creation, data insertion, and essential queries for managing portfolios, assets, transactions, and their prices.
+This project is a SQL-based **Portfolio Management** designed to help users manage their investment portfolios. It includes database schema creation, data insertion, and essential queries for managing portfolios, assets, transactions, and their prices.
 
 ## Table of Contents
 - [Project Overview](#project-overview)
@@ -13,7 +13,7 @@ This project is a SQL-based **Portfolio Management ** designed to help users man
 
 ## Project Overview
 
-The **Portfolio Management System** is designed to track users' investment portfolios by managing assets, holdings, transactions, and their prices. The SQL scripts included in this project will help you:
+The **Portfolio Management** is designed to track users' investment portfolios by managing assets, holdings, transactions, and their prices. The SQL scripts included in this project will help you:
 - Set up the necessary database schema (tables).
 - Insert sample data for managing portfolios, holdings, transactions, and prices.
 - Run SQL queries to analyze and manage the investment portfolios.
